@@ -75,12 +75,13 @@ Repository ini berisi proyek Ai Engineer yang saya kerjakan selama mengikuti pro
 
 
 #### c. Prediction (Inference)
-![image](https://github.com/user-attachments/assets/6c3afd22-2387-42f1-bc9e-2589658cf43b)
+![image](https://github.com/user-attachments/assets/8f95b582-4e38-4ad9-a815-977d355b2643)
+
 
 - Insight:
-    - Berdasarkan hasil inference, terlihat bahwa dari 7 kelas yang diprediksi, model berhasil mengklasifikasikan 6 gambar dengan benar. Namun, terdapat satu kesalahan prediksi pada gambar pertama yang seharusnya merupakan baked_potato, tetapi diprediksi sebagai sandwich.
+    - Berdasarkan hasil inference, terlihat bahwa dari 7 kelas yang diprediksi, model berhasil mengklasifikasikan semua gambar dengan benar.
 
-    - Hal ini menunjukkan bahwa model masih memiliki keterbatasan dalam membedakan beberapa kelas makanan yang memiliki tampilan visual serupa. Meskipun demikian, secara keseluruhan performa model sangat baik, dengan akurasi mencapai 95% pada data training, validation, maupun testing.
+    - Hal ini menunjukkan bahwa model telah mampu membedakan gambar makanan dari masing-masing kelas. Secara keseluruhan performa model sangat baik, dengan akurasi mencapai 95% pada data training, validation, maupun testing.
 
 
 ### E. Cara Melakukan Inference
